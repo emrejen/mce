@@ -1,0 +1,57 @@
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:05:32.796Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:08:11.409Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:17:54.507Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:18:42.121Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:19:33.688Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:20:12.357Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:20:26.562Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:20:59.598Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:22:05.491Z"}
+{"message":"Error: >>>>>> Invalid status code: undefined","level":"error","timestamp":"2020-08-12T12:22:08.198Z"}
+{"message":"Error: >>>>>> Invalid status code: undefined","level":"error","timestamp":"2020-08-12T12:22:22.526Z"}
+{"message":"Error: >>>>>> Invalid status code: undefined","level":"error","timestamp":"2020-08-12T12:22:28.390Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:24:02.904Z"}
+{"message":"Error: >>>>>> Invalid status code: undefined","level":"error","timestamp":"2020-08-12T12:24:07.306Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:25:21.529Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:29:19.070Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:29:26.942Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:29:50.960Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:29:59.886Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:31:06.330Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T12:31:57.637Z"}
+{"message":"Error: >>>>>> sadas","level":"error","timestamp":"2020-08-12T12:32:00.509Z"}
+{"message":"Error: >>>>>> sadas","level":"error","timestamp":"2020-08-12T12:32:03.490Z"}
+{"message":"Error: >>>>>> sadas","level":"error","timestamp":"2020-08-12T12:59:11.302Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T13:39:44.120Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T13:44:43.581Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T13:45:13.347Z"}
+{"message":{},"level":"info","timestamp":"2020-08-12T13:45:13.568Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T13:46:06.501Z"}
+{"message":{},"level":"info","timestamp":"2020-08-12T13:46:39.286Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T13:48:08.278Z"}
+{"message":{},"level":"info","timestamp":"2020-08-12T13:49:04.976Z"}
+{"message":{},"level":"info","timestamp":"2020-08-12T13:49:55.504Z"}
+{"message":{},"level":"info","timestamp":"2020-08-12T13:50:05.732Z"}
+{"message":{},"level":"info","timestamp":"2020-08-12T13:50:16.807Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T13:54:37.396Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T13:55:02.249Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T13:55:48.944Z"}
+{"message":{},"level":"info","timestamp":"2020-08-12T13:55:57.781Z"}
+{"message":{},"level":"info","timestamp":"2020-08-12T13:56:12.484Z"}
+{"message":{},"level":"info","timestamp":"2020-08-12T13:56:35.374Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T13:56:45.528Z"}
+{"message":[{"attributes":{"idVendor":3034,"idProduct":33107,"bDescriptorType":1}},{"attributes":{"idVendor":3190,"idProduct":5663,"bDescriptorType":1}},{"attributes":{"idVendor":8457,"idProduct":2071,"bDescriptorType":1}},{"attributes":{"idVendor":8457,"idProduct":10263,"bDescriptorType":1}},{"attributes":{"idVendor":8457,"idProduct":10263,"bDescriptorType":1}},{"attributes":{"idVendor":8457,"idProduct":2071,"bDescriptorType":1}},{"attributes":{"idVendor":1452,"idProduct":636,"bDescriptorType":1}}],"level":"info","timestamp":"2020-08-12T13:56:53.243Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T14:00:08.822Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T14:00:38.682Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T14:00:56.161Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T15:39:25.043Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T15:39:53.632Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-12T16:22:13.285Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-13T05:27:18.451Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-13T06:24:47.463Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-13T06:26:41.846Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-13T06:29:18.223Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-13T06:31:21.854Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-13T06:33:37.136Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-13T06:36:27.045Z"}
+{"message":"Server listening on port 8080!","level":"info","timestamp":"2020-08-13T06:39:31.204Z"}

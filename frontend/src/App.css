@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+body {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+
+ul {
+  margin: 0;
+  padding: 4px;
+}
+
+li.menu {
+  list-style-type: none;
+  font-size: 15;
+  font-weight: 900;
+  border-left-style: solid;
+  border-left-width: 5px;
+  border-left-color: #238bf8;
+  height: 50px;
+}
+
+li.menu:hover {
+  background-color: #1a5e74;
+  cursor: pointer;
+  border-left-style: solid;
+  border-left-width: 5px;
+  border-left-color: #000000;
+}
+
+.push-right {
+  padding-left: 3px;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.app-container {
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-content: stretch;
+  -ms-flex-line-pack: stretch;
+  align-content: stretch;
+  -webkit-align-items: stretch;
+  -ms-flex-align: stretch;
+  align-items: stretch;
+}
+
+.left-panel {
+  -webkit-order: 0;
+  -ms-flex-order: 0;
+  order: 0;
+  -webkit-flex: 0 1 auto;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  -webkit-align-self: auto;
+  -ms-flex-item-align: auto;
+  align-self: auto;
+}
+
+.right-panel {
+  -webkit-order: 0;
+  -ms-flex-order: 0;
+  order: 0;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  -webkit-align-self: auto;
+  -ms-flex-item-align: auto;
+  align-self: auto;
+}
+
+.menu-container {
+  border-radius: 3px;
+  background-color: #238bf8;
+  height: 100%;
+}
+
+.mce-small {
+  text-align: center;
+  font-weight: 900;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
+  border-bottom-width: 1px;
+}
+
+.device-section {
+  margin-left: 100px;
+  margin-top: 10px;
+}
+
+.device {
+  width: 90%;
+  background-color: #27293e;
+  margin: 10px;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+.device-item {
+  font-weight: 900;
+}
+
+.seperator {
+  display: block;
+  height: 1px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: #393b4b;
+}
